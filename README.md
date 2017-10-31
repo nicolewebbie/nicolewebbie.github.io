@@ -1,9 +1,11 @@
 #
 hi
  nicolewebbie8.github.io
+
+
 <!DOCTYPE html>
-<head>
- <h1> hi </h1>
- 
-</head>
- 
+<html>
+<body>
+<h1> hi </h1>
+</body>
+</html>
